@@ -1,0 +1,7 @@
+C:\Users\Anatoliy\source\repos\AppSettingHelper\AppSettingHelper\bin\Debug\AppSettingHelper.exe.config
+C:\Users\Anatoliy\source\repos\AppSettingHelper\AppSettingHelper\bin\Debug\AppSettingHelper.exe
+C:\Users\Anatoliy\source\repos\AppSettingHelper\AppSettingHelper\bin\Debug\AppSettingHelper.pdb
+C:\Users\Anatoliy\source\repos\AppSettingHelper\AppSettingHelper\obj\Debug\AppSettingHelper.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\AppSettingHelper\AppSettingHelper\obj\Debug\AppSettingHelper.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\AppSettingHelper\AppSettingHelper\obj\Debug\AppSettingHelper.exe
+C:\Users\Anatoliy\source\repos\AppSettingHelper\AppSettingHelper\obj\Debug\AppSettingHelper.pdb
